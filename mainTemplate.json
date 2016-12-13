@@ -126,8 +126,8 @@
 		},		
 		"baseUrl": "[concat(parameters('artifactsBaseUrl'),'/')]",
 		"logicAppName":"[concat('sendgridApp',uniqueString(resourceGroup().id))]",
-		"sendgridApiKey":"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",
-		"sendgridName":"MEmail",
+		"sendgridApiKey":"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",
+		"sendgridName":"TestHMA",
 		"supportTicket":"Support Ticket - HMA",
 		"emailTo":"sdplusmsptest@hanusoftware.com",
 		"emailFrom":"ishwar.dutt@in.hanusoftware.com"		
